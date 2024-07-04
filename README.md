@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source DevOps projects and cloud infrastructure automation.  
 
-📫 How to reach me: You can reach me via email at Abatankehinde1999@gmail.com   
+📫 How to reach me: You can reach me via email at Taykeny94@@gmail.com   
 
 😄 Pronouns: He/Him  
 
