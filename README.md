@@ -1,18 +1,10 @@
-👋 Hi, I’m @Healerkay  
 
-👀 I’m interested in DevOps, cloud computing, and automation.  
+Welcome to My GitHub Profile 👋
 
-🌱 I’m currently learning Kubernetes, Terraform, and advanced CI/CD practices.  
+About Me An accomplished and result-oreiented professional with 3+ years of experience in IT industry, as a devops Engineer with hands-on experience supporting, Automating, and optimizing mission critical deployment in production server & cloud, Building, Deploying, Source code Management, leveraging configuration management, CI/CD and Devops processes..
 
-💞️ I’m looking to collaborate on open-source DevOps projects and cloud infrastructure automation.  
+🌱 I’m currently honing my skills in Kubernetes, Terraform, and AWS. 💬 Ask me about CI/CD, Containerization, and Infrastructure as Code. ⚡ Fun fact: My journey into DevOps started with my passion for solving complex problems and optimizing processes.
 
-📫 How to reach me: You can reach me via email at Taykeny94@@gmail.com   
+Tech Stack ⭐️ Cloud Providers: AWS, Azure ⭐️ Containerization: Docker, Kubernetes ⭐️ CI/CD: Jenkins, GitHub Actions, GitLab CI ⭐️ Infrastructure as Code: Terraform, Ansible, CloudFormation ⭐️ Monitoring: Prometheus, Grafana ⭐️ Scripting Languages: Bash, Python ⭐️ Version Control: Git, GitHub, GitLab
 
-😄 Pronouns: He/Him  
-
-⚡ Fun fact: I love solving complex problems and optimizing systems for performance and reliability, and in my free time, I enjoy Playing Football and exploring new technologies.  
-
-<!---
-Healerkay/Healerkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Get in Touch 📫 Email: AbatanKehinde1999@gmail.com 💼 LinkedIn: www.linkedin.com/in/healerkay
