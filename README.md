@@ -1,7 +1,7 @@
 
 Welcome to My GitHub Profile 👋
 
-About Me An accomplished and result-oreiented individual  with 3+ years of experience in IT industry, as a devops Engineer with hands-on experience supporting, Automating, and optimizing mission critical deployment in production server & cloud, Building, Deploying, Source code Management, leveraging configuration management, CI/CD and Devops processes..
+About Me An accomplished and result-oreiented individual  with 5+ years of experience in IT industry, as a devops Engineer with hands-on experience supporting, Automating, and optimizing mission critical deployment in production server & cloud, Building, Deploying, Source code Management, leveraging configuration management, CI/CD and Devops processes..
 
 🌱 I’m currently honing my skills in Kubernetes, Terraform, and AWS. 💬 Ask me about CI/CD, Containerization, and Infrastructure as Code. ⚡ Fun fact: My journey into DevOps started with my passion for solving complex problems and optimizing processes.
 
