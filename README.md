@@ -1,10 +1,30 @@
+💻 Welcome to My GitHub Profile 👋
+🚀 About Me
 
-Welcome to My GitHub Profile 👋
+I’m a DevOps and Cloud Engineer with 3+ years of hands-on experience in building, automating, and optimizing deployment pipelines for production environments across on-prem and cloud platforms.
 
-About Me An accomplished and result-oreiented individual  with 5+ years of experience in IT industry, as a devops Engineer with hands-on experience supporting, Automating, and optimizing mission critical deployment in production server & cloud, Building, Deploying, Source code Management, leveraging configuration management, CI/CD and Devops processes..
+I specialize in designing CI/CD pipelines, managing containerized workloads, and implementing Infrastructure as Code to ensure scalable, reliable, and secure cloud solutions.
 
-🌱 I’m currently honing my skills in Kubernetes, Terraform, and AWS. 💬 Ask me about CI/CD, Containerization, and Infrastructure as Code. ⚡ Fun fact: My journey into DevOps started with my passion for solving complex problems and optimizing processes.
+Currently, I’m deepening my expertise in Kubernetes, Terraform, and AWS Cloud Infrastructure — focusing on automation, observability, and continuous improvement.
 
-Tech Stack ⭐️ Cloud Providers: AWS, Azure ⭐️ Containerization: Docker, Kubernetes ⭐️ CI/CD: Jenkins, GitHub Actions, GitLab CI ⭐️ Infrastructure as Code: Terraform, Ansible, CloudFormation ⭐️ Monitoring: Prometheus, Grafana ⭐️ Scripting Languages: Bash, Python ⭐️ Version Control: Git, GitHub, GitLab
+🔧 My DevOps philosophy: “Automate everything that can be repeated — and monitor everything that matters.”
 
-Get in Touch 📫 Email: AbatanKehinde1999@gmail.com 💼 LinkedIn: www.linkedin.com/in/healerkay
+🧰 Tech Stack
+
+☁️ Cloud Providers: AWS, Azure
+🐳 Containerization: Docker, Kubernetes
+🔁 CI/CD: Jenkins, GitHub Actions, GitLab CI
+⚙️ Infrastructure as Code: Terraform, Ansible, CloudFormation
+📈 Monitoring & Observability: Prometheus, Grafana
+💻 Scripting: Bash, Python
+🧾 Version Control: Git, GitHub, GitLab
+
+📫 Let’s Connect
+
+💼 LinkedIn: www.linkedin.com/in/healerkay
+
+📧 Email: AbatanKehinde1999@gmail.com
+
+⚡ Fun Fact
+
+My journey into DevOps began from a passion for simplifying complex processes — turning manual deployments into fully automated, observable, and secure workflows.
