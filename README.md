@@ -1,7 +1,7 @@
 💻 Welcome to My GitHub Profile 👋
 🚀 About Me
 
-I’m a DevOps and Cloud Engineer with 3+ years of hands-on experience in building, automating, and optimizing deployment pipelines for production environments across on-prem and cloud platforms.
+I’m a DevOps and Cloud Engineer with 5+ years of hands-on experience in building, automating, and optimizing deployment pipelines for production environments across on-prem and cloud platforms.
 
 I specialize in designing CI/CD pipelines, managing containerized workloads, and implementing Infrastructure as Code to ensure scalable, reliable, and secure cloud solutions.
 
